@@ -2,6 +2,8 @@
 
 This repository focuses on mastering the Azure SDK for Python to build, manage, and automate Azure infrastructure for Internal Development Platform (IDP) development.
 
+- [References](./REFERENCES.md)
+
 ## 🎯 Learning Objectives
 
 By working through this repository, you will:
